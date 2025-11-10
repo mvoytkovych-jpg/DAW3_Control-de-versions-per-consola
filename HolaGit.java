@@ -4,8 +4,8 @@ public class exercici2 {
 
     public static void main(Strings[] args) {
 
-        System.out.println("Heloo World");
-        
+        System.out.println("Hola Món");
+
     }
 
 }
